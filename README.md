@@ -3,12 +3,10 @@ planets-array.js. Some practice with array methods.
 
 Steps in js
 
-# 1.) 
-Created an array of planets
+[#] 1.)Created an array of planets
 
 
-# 2.)
-Created a function for logging the planets array
+# 2.) Created a function for logging the planets array
 
 
 # 3.) 
