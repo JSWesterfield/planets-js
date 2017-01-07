@@ -3,7 +3,7 @@ planets-array.js. Some practice with array methods.
 
 Steps in js
 
-# 1.) ### Created an array of planets
+_1.)_ Created an array of planets
 
 
 ## 2.) ####Created a function for logging the planets array
