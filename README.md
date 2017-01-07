@@ -5,8 +5,8 @@ planets-array.js. Some practice with array methods.
 
 1. Created an array of planets
 2. Created a function for logging the planets array
-3. .unshift method. Added "The Sun" to the beginning of the planets array
-4. .push method. Added "Pluto" to the end of the planets array
+3. _.unshift_ method. Added "The Sun" to the beginning of the planets array
+4. .push method. _Added_ "Pluto" to the end of the planets array
 5. .shift method. Removed "The Sun" from the beginning of the planets array.
 6. .pop method. Removed "Pluto" from the end of the planets array.
 7. .indexOf method. Found and logged the index of "Venus" in the planets array.
