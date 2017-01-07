@@ -3,18 +3,16 @@ planets-array.js. Some practice with array methods.
 
 Steps in js
 
-[#] 1.)Created an array of planets
+## 1.) ##Created an array of planets
 
 
-# 2.) Created a function for logging the planets array
+## 2.) ##Created a function for logging the planets array
 
 
-# 3.) 
-.unshift method. Added "The Sun" to the beginning of the planets array
+## 3.) ###.unshift method. Added "The Sun" to the beginning of the planets array
 
 
-# 4.)
-.push method. Added "Pluto" to the end of the planets array
+# 4.) ###.push method. Added "Pluto" to the end of the planets array
 
 
 # 5.)
