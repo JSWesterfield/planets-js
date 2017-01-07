@@ -1,6 +1,9 @@
 # planets-js
 planets-array.js. Some practice with array methods. 
 
+![alt text](http://25.media.tumblr.com/f84cef4ac540f26e94ae11955425d9a9/tumblr_n2v0ziFCtk1sw0e4co1_500.jpg "Logo Title Text 1")
+
+
 **Steps in js**
 
 1. Created an array of planets
